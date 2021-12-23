@@ -1,0 +1,125 @@
+Name - Amol Chaudhari
+
+
+#Swap values of two variables
+a=99
+b=88
+temp=a
+a=b       #a,b = b,a this also doing the same work
+b=temp
+print('Value of a',a)#88
+print('Value of b',b)#99
+
+
+ #*********************************************************************************
+
+#Swap values of two variables without using third variable, Hint : Maths +-,*/
+a=99
+b=88
+a,b=b,a
+print('Value of a',a)#88
+print('Value of b',b)#99
+
+#********************************************************************************************
+
+a=49
+b=99.6
+#mysum=a+b
+print('SUm of a&b is :',a+b)
+print('Sub of a&b is :',a-b)
+print('Mult of a&b is :',a*b)
+print('Div of a&b is :',a/b)
+#-,*,/
+
+#********************************************************************************************
+
+SUm of a&b is : 148.6
+Sub of a&b is : -50.599999999999994
+Mult of a&b is : 4880.4
+Div of a&b is : 0.4919678714859438
+>>> a=888
+>>> #Assignment Operator
+>>> a=b=c=99
+>>> a=999
+>>> b=999
+>>> c=999
+>>> a=b=c=999
+>>> #Garbage Collection
+>>> #Automatic Garbage Collection
+>>> a
+999
+\
+>>> b
+999
+>>> c
+999
+>>> a=77.6
+>>> b=66
+>>> v=9
+
+#**************************************************************
+
+Value of a 979
+Value of b 891
+>>> a+b
+1870
+>>> a
+990
+>>> b
+880
+>>> 7*2
+14
+>>> 7**2
+49
+>>> 7**3
+343
+>>> 7/3
+2.3333333333333335
+>>> 7//3
+2
+>>> 7/5
+1.4
+>>> 7/4
+1.75
+>>> 7//4
+1
+>>> 7%4
+3
+>>> 44%4
+0
+>>> 14%4
+2
+>>> 15%4
+3
+>>> 16%4
+0
+>>> a=99
+>>> a=a+10
+>>> a
+109
+>>> a+=10
+>>> a
+119
+>>> 7<10
+True
+>>> 7>10
+False
+>>> #Boolean --> True , False
+>>> a=99
+>>> type(a)
+<class 'int'>
+>>> b=99.8
+>>> type(b)
+<class 'float'>
+>>> a<b
+True
+>>> type(a<b)
+<class 'bool'>
+>>> a=9999
+>>> b=98888
+>>> a==b
+False
+>>> b=9999
+>>> a==b
+True
+>>> 
