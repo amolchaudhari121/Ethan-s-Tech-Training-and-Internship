@@ -1,0 +1,14 @@
+#Name--> Amol Chaudhari
+#Comments : This program is hello world printing program
+'''
+This is my
+multi
+line
+comment
+'''
+print("Hello World")
+print('''Hello (Welcome) to Amol's "world"''')#this is my welcome Amol line
+z=print('''amol is a very good boy
+and also he is very claver
+and also he is smart enough''')
+# print(z)
